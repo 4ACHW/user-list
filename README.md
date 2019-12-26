@@ -1,4 +1,4 @@
-# Movie List
+# Fake User List
 A simple web application for fake user list
 
 ## Features
